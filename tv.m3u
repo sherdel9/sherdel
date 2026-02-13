@@ -13,19 +13,6 @@ https://dl23.mp4.ir/video/2025/8/321750-455863615/m3u8/1080p/out.m3u8
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:0 tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
 https://app-live.org/live/a267c1b3/index.m3u8
-#EXTINF:0 tvg-name="baskhd" group-title="KURDISH ",baskhd
-#EXTINF:0 tvg-name="baskhd" tvg-logo="https://www.basknet.net/wp-content/uploads/2020/03/photo_2020-03-19_22-40-16-640x405.jpg" group-title="KURDISH ",baskhd
-http://baskhd.ddns.net:40/live/baskhd/HawezHD.m3u8
-#EXTINF:0 tvg-name="Rawshan hd" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd
-http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:0 tvg-name="BARIN QURAN" tvg-logo="https://i.postimg.cc/1P5QSGFY/BARINQ.png" group-title="KURDISH ",BARIN QURAN
-http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
-#EXTINF:0 tvg-name="IMK QURAN HD" tvg-logo="https://i.postimg.cc/w6hM1JNc/IMK.png" group-title="KURDISH ",IMK QURAN HD
-http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
-#EXTINF:0 tvg-name="EMAN" tvg-logo="https://i.postimg.cc/yB4Bc8M3/eman.png" group-title="KURDISH ",EMAN
-http://avrstream.com:1935/live/emantv/playlist.m3u8
-#EXTINF:0 tvg-name="Sroshty" tvg-logo="https://yt3.googleusercontent.com/5zf0Nk7ILDXD8A-nPmt2UqacTY3DBvYXApU3HV42Znd4W3iBSHhQfImCuZgQIxykUUwFoMtJ=s900-c-k-c0x00ffffff-no-rj" group-title="KURDISH ",Sroshty
-https://live9.karwan.tv/Sroshtyusfstore/index.m3u8
 #EXTINF:0 tvg-name="ESRA TV 1" tvg-logo="https://i.postimg.cc/6tNVZW4B/ESRA.jpg" group-title="KURDISH ",ESRA TV 1
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 #EXTINF:0 tvg-name="ESRA TV 2" tvg-logo="https://i.postimg.cc/9VZb67Kp/essra2.png" group-title="KURDISH ",ESRA TV 2
